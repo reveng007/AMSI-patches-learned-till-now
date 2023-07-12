@@ -59,3 +59,14 @@ Here, the value (rather error Value) of HRESULT being 'E_HANDLE' (Source: https:
 e. To Skip the branch that does the actual scanning in _`amsi!AmsiScanBuffer`_ and returns, by directly pasting `\\xB8\\x0E\\x00\\x07\\x80\\xC3` ('mov eax, 0x8007000E; ret') at the beginning of the _`amsi!AmsiScanBuffer`_
 
 Here, the value (rather error Value) of HRESULT being 'E_OUTOFMEMORY' (Source: https://pre.empt.dev/posts/maelstrom-etw-amsi/#Historic_AMSI_Bypasses)
+
+### Other important Blogs:
+1. AMSI Bypass With a Null Character: https://standa-note.blogspot.com/2018/02/amsi-bypass-with-null-character.html
+2. Win10: AMSI Internals: AMSI Bypass: Patching Technique: https://www.cyberark.com/resources/threat-research-blog/amsi-bypass-patching-technique
+3. Hunting AMSI Memory Tempering: https://blog.f-secure.com/hunting-for-amsi-bypasses/
+4. BlackHat 2018: https://i.blackhat.com/briefings/asia/2018/asia-18-Tal-Liberman-Documenting-the-Undocumented-The-Rise-and-Fall-of-AMSI.pdf
+5. Exploring PowerShell AMSI, Script Block Logging and PowerShell Logging – Suspicious Strings Evasion: https://www.mdsec.co.uk/2018/06/exploring-powershell-amsi-and-logging-evasion/
+6. Disable AMSI WLDP Dotnet: https://modexp.wordpress.com/2019/06/03/disable-amsi-wldp-dotnet/
+7. BlackHat 2022: AMSI & Bypass: Review of Known AMSI Bypass Techniques and Introducing a New One: https://www.youtube.com/watch?v=8y8saWvzeLw
+8. 
+
