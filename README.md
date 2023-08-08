@@ -68,5 +68,5 @@ Here, the value (rather error Value) of HRESULT being 'E_OUTOFMEMORY' (Source: h
 5. Exploring PowerShell AMSI, Script Block Logging and PowerShell Logging – Suspicious Strings Evasion: https://www.mdsec.co.uk/2018/06/exploring-powershell-amsi-and-logging-evasion/
 6. Disable AMSI WLDP Dotnet: https://modexp.wordpress.com/2019/06/03/disable-amsi-wldp-dotnet/
 7. BlackHat 2022: AMSI & Bypass: Review of Known AMSI Bypass Techniques and Introducing a New One: https://www.youtube.com/watch?v=8y8saWvzeLw
-8. 
+8. Bypass AMSI in local process hooking NtCreateSection: https://waawaa.github.io/es/amsi_bypass-hooking-NtCreateSection/
 
