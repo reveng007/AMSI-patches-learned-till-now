@@ -69,4 +69,5 @@ Here, the value (rather error Value) of HRESULT being 'E_OUTOFMEMORY' (Source: h
 6. Disable AMSI WLDP Dotnet: https://modexp.wordpress.com/2019/06/03/disable-amsi-wldp-dotnet/
 7. BlackHat 2022: AMSI & Bypass: Review of Known AMSI Bypass Techniques and Introducing a New One: https://www.youtube.com/watch?v=8y8saWvzeLw
 8. Bypass AMSI in local process hooking NtCreateSection: https://waawaa.github.io/es/amsi_bypass-hooking-NtCreateSection/
-
+9. LifeTime AMSI bypass: Patch _the first byte_ and change it from `JE` to `JMP` so it returns directly...
+10. Neutralising AMSI System-Wide as an Admin: https://www.pavel.gr/blog/neutralising-amsi-system-wide-as-an-admin
