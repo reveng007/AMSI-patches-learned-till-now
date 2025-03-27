@@ -61,6 +61,9 @@ e. To Skip the branch that does the actual scanning in _`amsi!AmsiScanBuffer`_ a
 Here, the value (rather error Value) of HRESULT being 'E_OUTOFMEMORY' (Source: https://pre.empt.dev/posts/maelstrom-etw-amsi/#Historic_AMSI_Bypasses)
 
 ### Other important Blogs:
+
+By [Ritaban Das](https://www.linkedin.com/in/ritaban-das-1b07781a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app): https://github.com/dosxuz/TradecraftImrprovement
+
 1. AMSI Bypass With a Null Character: https://standa-note.blogspot.com/2018/02/amsi-bypass-with-null-character.html
 2. Win10: AMSI Internals: AMSI Bypass: Patching Technique: https://www.cyberark.com/resources/threat-research-blog/amsi-bypass-patching-technique
 3. Hunting AMSI Memory Tempering: https://blog.f-secure.com/hunting-for-amsi-bypasses/
