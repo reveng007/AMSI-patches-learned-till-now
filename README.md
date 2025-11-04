@@ -6,7 +6,7 @@ I have documented all of the AMSI patches that I learned till now
 ### DISCLAIMER: This code is not meant to be Evasive till now! Only a Conceptual Approach.
 
 ### Links:
-1. https://pre.empt.dev/posts/maelstrom-etw-amsi/#Antimalware_Scan_Interface_(AMSI)
+1. https://web.archive.org/web/20220718153535/https://pre.empt.dev/posts/maelstrom-etw-amsi/#Antimalware_Scan_Interface_(AMSI)
 2. https://rastamouse.me/memory-patching-amsi-bypass/ 
 
 ### Still remaining to be Implemented:
